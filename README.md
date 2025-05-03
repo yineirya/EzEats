@@ -23,21 +23,33 @@ This app was developed as a group project for the course **Mobile App Developmen
 - **Google Custom Search Engine**
 - **AWS DynamoDB** (for cloud-based saving)
 - **Room Database** (for local storage)
+  
+### 👥 Team Members & Roles
+**Yineiry** – Tester / Frontend Developer  
+Worked on frontend UI components and performed comprehensive app testing.  
+
+**Younes** – Backend Programmer  
+Handled backend logic and systems development for the app.  
+
+**Dominick** – Image/Asset Finder  
+Collected and organized all images and visual assets for the UI.  
+
+**Daniella** – App Designer  
+Designed the overall app layout and assisted with debugging.  
 
 ## 📸 Screenshots
 
 ### 🔍 Search Page
-![Search Page](screenshots/search-page.png)
-
-### 📚 Bookmarks Page
-![Bookmarks Page](screenshots/bookmarks-page.png)
-
-### 👤 Account Page
-![Account Page](screenshots/account-page.png)
+![Search Page](search-page.png)
 
 ### 🍽️ Recipe View Page
-![Recipe View](screenshots/recipe-view.png)
+![Recipe View](recipe-view.png)
 
 ### 📤 Share Page
-![Share Page](screenshots/share-page.png)
+![Share Page](share-page.png)
 
+### 📚 Bookmarks Page
+![Bookmarks Page](bookmarks-page.png)
+
+### 👤 Account Page
+![Account Page](account-page.png)
