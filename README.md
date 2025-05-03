@@ -4,7 +4,7 @@ A mobile recipe app that helps users find, filter, and save cooking recipes.
 
 ## 📚 Course Context
 
-This app was developed as a group project for the course **Mobile App Development** at Pace Univeristy in **Spring 2025**.
+This app was developed as a group project for the course **Mobile App Development** at Pace University in **Spring 2025**.
 
 ## 📱 Features
 
